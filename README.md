@@ -26,6 +26,11 @@ The dataset used is the Concrete Compressive Strength dataset, obtained from the
     *   Visualized actual vs. predicted strength to assess model accuracy.
 6.  **Feature Importance:** Examined the coefficients of the Linear Regression model to understand the impact of each ingredient on concrete strength.
 
+Visuals
+![Figure_2](https://github.com/user-attachments/assets/369abd00-7ab4-402f-ba9d-28f7b0a5502e)
+![Figure_1](https://github.com/user-attachments/assets/ee1e1b46-3a8b-439e-bcfb-073a84e78b78)
+
+
 ## How to Run the Project:
 1.  **Clone the repository:**
     ```bash
