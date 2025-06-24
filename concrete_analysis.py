@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Project: Concrete Compressive Strength Prediction
-# Author: Your Name (or leave as is)
-# Date: [Current Date]
+# Author: Arham Ansari
+# Date: [24-06-2025]
 # Description: This script loads, cleans, analyzes, visualizes, and models
 #              the Concrete Compressive Strength dataset.
 # -----------------------------------------------------------------------------
